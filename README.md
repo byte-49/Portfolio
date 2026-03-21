@@ -57,8 +57,8 @@ I enjoy building responsive and user-friendly web interfaces using modern web te
 ## 📬 Contact
 
 - **Email:** incredible.rohitraj@gmail.com  
-- **GitHub:** https://github.com/Abhirajkumar19  
-- **LinkedIn:** https://www.linkedin.com/in/abhiraj-kumar-abhi
+- **GitHub:** https://github.com/byte-49
+- **LinkedIn:** https://www.linkedin.com/in/rohit-raj-3a7917300/
 
 ---
 
